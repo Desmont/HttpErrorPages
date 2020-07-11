@@ -25,7 +25,7 @@
     // internal server error
     "500": {
         "title": "Webservice currently unavailable",
-        "message": "An unexpected condition was encountered.\nOur service team has been dispatched to bring it back online." 
+        "message": "An unexpected condition was encountered." 
     },
     
     // unknown http method
